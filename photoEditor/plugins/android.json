@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "photoeditor": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "com.ourcodeworld.plugins.Filebrowser": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.example.photoEditor"
+    }
+  }
+}

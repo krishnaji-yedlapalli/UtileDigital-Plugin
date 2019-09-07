@@ -1,0 +1,15 @@
+{
+    "brightness": "Luminosità",
+    "contrast": "Contrasto",
+    "fillColor": "Colore di riempimento",
+    "borderColor": "Colore del bordo",
+    "borderDiameter": "Diametro del bordo",
+    "textColor": "Colore del testo",
+    "textSize": "Dimensione del testo",
+    "save": "Salvare",
+    "placeHolder": "Nome",
+    "chooseColor": "Scegli il colore",
+    "cancel": "Annulla",
+    "ok": "Ok",
+    "ltr": true
+}
